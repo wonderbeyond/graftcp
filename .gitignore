@@ -1,4 +1,6 @@
 graftcp
+local/graftcp-local
+local/mgraftcp
 local/cmd/graftcp-local/graftcp-local
 local/cmd/mgraftcp/mgraftcp
 
